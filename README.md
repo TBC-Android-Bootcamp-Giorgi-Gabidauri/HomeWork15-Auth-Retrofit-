@@ -3,6 +3,9 @@
 # Auth via Retrofit
 
 
+https://user-images.githubusercontent.com/66998427/184554593-6855c05b-b3c9-4a43-bc4e-f84ba71bedbb.mp4
+
+
 # Used
 - Dependency Injection,
 - navigation,
