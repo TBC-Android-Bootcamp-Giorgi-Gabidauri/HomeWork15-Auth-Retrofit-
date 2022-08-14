@@ -46,12 +46,12 @@ https://user-images.githubusercontent.com/66998427/184554593-6855c05b-b3c9-4a43-
 - appLVL Gradle
 
 buildscript {
-    - repositories {
-      - google()
-        - mavenCentral()
-    - }
-    - dependencies {
-      -   def nav_version = "2.5.0"
-       -  classpath "androidx.navigation:navigation-safe-args-gradle-plugin:$nav_version"
-    - }
-- }
+     repositories {
+         google()
+          mavenCentral()
+      }
+     dependencies {
+          def nav_version = "2.5.0"
+          classpath "androidx.navigation:navigation-safe-args-gradle-plugin:$nav_version"
+     }
+ }
